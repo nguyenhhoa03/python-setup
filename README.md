@@ -23,7 +23,7 @@ Source code: [https://github.com/nguyenhhoa03/python-setup](https://github.com/n
 
 ## Tính năng
 
-- Biên dịch thành file `.exe`, không yêu cầu Python có sẵn trên máy.
+- Biên dịch thành file `.exe`, không yêu cầu Python có sẵn trên máy. (Trong lần đầu biên dịch thành file exe cần có Python và PyInstaller trên máy)
 - Cài đặt Python im lặng với các tham số:
   - `/quiet`
   - `InstallAllUsers=1`
