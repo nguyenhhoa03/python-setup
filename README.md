@@ -47,7 +47,8 @@ Source code: [https://github.com/nguyenhhoa03/python-setup](https://github.com/n
 1. Clone hoặc tải project về:
    ```bash
    git clone https://github.com/nguyenhhoa03/python-setup.git
-   cd python-setup```
+   cd python-setup
+```
 
 2. Đặt file cài đặt Python (Windows installer) vào thư mục project và đổi tên thành `python-setup.exe`.
 
