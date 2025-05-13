@@ -61,7 +61,7 @@ Source code: [https://github.com/nguyenhhoa03/python-setup](https://github.com/n
    pip install pyinstaller
    pyinstaller --onefile python-setup.py --add-data "python-setup.exe; python-setup.exe"
    ```
-2. Sau khi có file `python_installer_gui.exe`, chạy trực tiếp trên Windows.
+2. Sau khi có file `python-setup.exe`, chạy trực tiếp trên Windows.
 3. Giao diện sẽ tự động kiểm tra, cài Python (nếu cần) và thiết lập các thư viện.
 
 ---
